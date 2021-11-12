@@ -89,7 +89,7 @@ Now that the `.eslintrc.json` file was added it will look like that:
     }
 }
 ```
-You need to change the `"ecmaVersion"` to 12 so the file will look like this:  
+You need to change the `"ecmaVersion"` to 12 (there in no version 13 yet for es2021 the ecmaVersion is 12) so the file will look like this:  
 ```
 {
     "env": {
